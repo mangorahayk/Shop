@@ -63,10 +63,43 @@ const Button = defineStyleConfig({
     display:"flex",
     borderRadius:"0",
     color:"white",
+    _hover:{bg:"#F05A00"}
+
+  },
+  borderBtn:{
+    border:"1px solid #F05A00",
+    bg:"transpartent",
+    padding:"15px 20px",
     _active:{bg:"#F05A00"}
 
+  },
+  navbarIcon:{
+    bg:"white",
+    color:"black",
+    padding:"15px 10px",
+    borderRadius:"100%",
+    _hover:{bg:"#f05a00",color:"white"}
+  },
+  hoverToOrange:{
+    _hover:{color:"#F05A00"}
+  },
+  linkBtn:{
+      bg:"#F05A00",
+      margin:"0",
+      padding:"29.5px",
+      // display:"flex",
+      borderRadius:"0",
+      color:"white",
+      height:"full"
+  },
+  logIn:{
+    bg:"black",
+    borderRadius:"25px",
+    padding:"15px",
+    color:"white",
+    height:"65px"
+
   }
-  
   },
   // The default size and variant values
   defaultProps: {
