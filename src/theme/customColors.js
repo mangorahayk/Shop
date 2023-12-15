@@ -15,7 +15,7 @@ export const customColors = defineStyleConfig({
           },
           buttons:{
             10: '#3B3B3B',
-            20: '#F05A00'
+            20: '#F05A00',
           },
           
     },
