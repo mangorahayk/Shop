@@ -34,7 +34,9 @@ const Button = defineStyleConfig({
     color:"white",
     transition:"0.7s",
     borderRadius:"4px",
-    _active:{bg:"black"}
+    fontFamily:"Raleway",
+    w:"250px",
+    _hover:{bg:"black"}
   },
   continueShopping:{
     bg:'#DEDBDB',
@@ -99,6 +101,22 @@ const Button = defineStyleConfig({
     color:"white",
     height:"65px"
 
+  },
+  arrowBtn:{
+    width:"58px",
+     height:"58px",
+     bg:"black",
+     color:"white",
+     borderTopLeftRadius:"0",
+     borderBottomRightRadius:"0",
+     fontSize:"20px",
+     _hover:{bg:"#F05A00"}
+  },
+  toCatalog:{
+    color:"white",
+    bg:"#212526",
+    fontFamily:"Raleway",
+    _hover:{bg:"#F05A00"}
   }
   },
   // The default size and variant values

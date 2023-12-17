@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "email": "poxos@gmail.com",
+      "password": "12312321",
+      "id": 1
+    }
+
+  ],
+  "products": {
+    "painting": [
+      {
+        "id": 1,
+        "img": "Image",
+        "title": "News title",
+        "date": "12 January 2023"
+      },
+      {
+        "id": 2,
+        "img": "Image2",
+        "title": "News title",
+        "date": "12 January 2023"
+      }
+    ],
+    "electrical": [
+      {
+        "id": 1,
+        "img": "Image",
+        "title": "News title",
+        "date": "12 January 2023"
+      },
+      {
+        "id": 2,
+        "img": "Image2",
+        "title": "News title",
+        "date": "12 January 2023"
+      }
+    ],
+    "workwear": [
+      {
+        "id": 1,
+        "img": "Image",
+        "title": "News title",
+        "date": "12 January 2023"
+      },
+      {
+        "id": 2,
+        "img": "Image2",
+        "title": "News title",
+        "date": "12 January 2023"
+      }
+    ],
+    "forHome": [
+      {
+        "id": 1,
+        "img": "Image",
+        "title": "News title",
+        "date": "12 January 2023"
+      },
+      {
+        "id": 2,
+        "img": "Image2",
+        "title": "News title",
+        "date": "12 January 2023"
+      }
+    ]
+  },
+  "news": [
+    {
+      "id": 1,
+      "img": "Image",
+      "title": "News title",
+      "date": "12 January 2023"
+    },
+    {
+      "id": 2,
+      "img": "Image2",
+      "title": "News title",
+      "date": "12 January 2023"
+    },
+    {
+      "id": 3,
+      "img": "Image3",
+      "title": "News title",
+      "date": "12 January 2023"
+    },
+    {
+      "id": 4,
+      "img": "Image4",
+      "title": "News title",
+      "date": "12 January 2023"
+    }
+  ],
+  "brands": [
+    {
+      "id": 1,
+      "img": "Image"
+    },
+    {
+      "id": 2,
+      "img": "Image2"
+    },
+    {
+      "id": 3,
+      "img": "Image3"
+    },
+    {
+      "id": 4,
+      "img": "Image4"
+    }
+  ]
+}

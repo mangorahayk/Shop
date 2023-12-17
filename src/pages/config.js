@@ -55,7 +55,8 @@ const config = [
         path:"/basket",
         element:<Basket />,
         Layout:AuthLayout
-    }
+    },
+    
 ]
 
 export default config
